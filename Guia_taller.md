@@ -280,21 +280,15 @@ Cuando todos hayan subido sus cambios, el líder debe:
 
 Complete esta tabla al final del taller.
 
-| Rol | Nombre | Usuario de GitHub | Commit principal |
-| --- | --- | --- | --- |
-| Líder |  |  |  |
-| Integrante 1 |  |  |  |
-| Integrante 2 |  |  |  |
-| Integrante 3 |  |  |  |
-| Integrante 4 |  |  |  |
+| Rol          | Nombre              | Usuario de GitHub | Commit principal                                          |
+| ------------ | ------------------- | ----------------- | --------------------------------------------------------- |
+| Líder        | Arian Villavicencio | ALVD7             | Commit 5c10980 - Personalizar botón y colores principales |
+| Integrante 1 | Luis Lucio          | LAA900            | Commit fcc9842 - Cambiar botón y cabeza de snake          |
+| Integrante 2 | Camilo Arboleda     | Camilo1138        | Commit c570085 - Resolucion de conflictos                 |
+| Integrante 3 | Martin Guamani      | JoseGuamani       | Commit 8af9b14 - Resolver conflictos del Integrante 3     |
 
 ## Evidencias
 
-Coloque las capturas dentro de una carpeta llamada `capturas/` y enláselas en esta sección.
-
-Ejemplo:
-
-```markdown
 ### Líder
 
 Push exitoso:
@@ -310,7 +304,26 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
-```
+
+### Integrante 2
+
+Error antes de resolver conflicto:
+
+![Error Integrante 2](capturas/integrante2_error.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.png)
+
+### Integrante 3
+
+Error antes de resolver conflicto:
+
+![Error Integrante 3](capturas/integrante3_error.png)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 3](capturas/integrante3_push_exitoso.png)
 
 ## Recomendaciones para resolver conflictos
 
