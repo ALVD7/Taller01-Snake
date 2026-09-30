@@ -1,2 +1,0 @@
-# Taller01-Snake
-
